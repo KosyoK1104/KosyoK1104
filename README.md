@@ -17,6 +17,16 @@ When I’m not coding, you can find me exploring the latest tech trends or brain
 
 ---
 
+### 🧑‍💻 Ongoing Project
+
+One of my key personal projects is the White Framework.
+
+White Framework is a PHP-based starting framework developed to explore and deepen understanding of PHP Standards Recommendations (PSRs) and other foundational concepts in modern PHP development. It is intentionally minimal and designed to adhere to best practices, making it a great educational and practical tool for honing skills in creating scalable and maintainable PHP applications.
+
+This project is a great opportunity for me to further enhance my knowledge of PHP, learn new best practices, and experiment with architectural patterns while building a solid framework. As I continue developing White Framework, I plan to improve its features and expand its capabilities. This framework also serves as a tool for anyone looking to learn the fundamentals of modern PHP development.
+
+---
+
 ### 🛠️ Tech Stack  
 
 #### **Programming Languages**:  

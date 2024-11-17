@@ -19,7 +19,7 @@ When I’m not coding, you can find me exploring the latest tech trends or brain
 
 ### 🧑‍💻 Ongoing Project
 
-One of my key personal projects is the White Framework.
+One of my key personal projects is the [White Framework](https://github.com/KosyoK1104/white-framework).
 
 White Framework is a PHP-based starting framework developed to explore and deepen understanding of PHP Standards Recommendations (PSRs) and other foundational concepts in modern PHP development. It is intentionally minimal and designed to adhere to best practices, making it a great educational and practical tool for honing skills in creating scalable and maintainable PHP applications.
 
